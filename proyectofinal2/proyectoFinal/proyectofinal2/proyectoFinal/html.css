@@ -1,0 +1,27 @@
+.fondo{
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUPGmK7JOgt2FLoeUx-BzHcXclxEoC9yaSW4Q7bnH5fMOuruF8m6vO0dv9VX3ZFDp-nxscyg7WKs-4B98njUznpgJgAeyL1XrMxLh08W1xrhFm4HltaJPqJk9xiC5JbxcazC74kBos1xMVa1vDCdwtiWYUrM9S7YQ4NaFzSAkfb4ZCbirjiB_5saajVStD/s1600/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    filter: blur(3px);
+}
+.titulo{
+
+    background-image: url(https://media.tenor.com/YGMP7vlgwb4AAAAM/kaworu-kaworu-nagisa.gif);
+
+text-align: center;
+
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}

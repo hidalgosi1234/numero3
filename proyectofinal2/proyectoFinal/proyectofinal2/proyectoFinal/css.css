@@ -1,0 +1,18 @@
+.fondo{
+
+
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+   
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Vnalxr3hVuoQmWbj9P_A19Mx1SOVyda-MOsp1rGhWt35BnRzOSV19TcIB-hmzpciiep1DSUNo-7qbTURlzqj8fBFVtKDwbDSKWROMFFtFenk4djc4wcmycQfaQGW2y1-1voSMx5xlGI1jWIYDeeaOj2_qUWoN6f1pyIUWXGiJkq0YcRXr4ERT8YoRShy/s1600/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    filter: blur(6px);
+}
